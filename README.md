@@ -1,6 +1,5 @@
 # SyntexSecurity-AV
-Open-source Antivirus &amp; Malware software. 
-
+Open-source Antivirus &amp; Malware project.
 Coming soon.
 
 https://syntexsecurity.co.uk/project/
